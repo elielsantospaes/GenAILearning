@@ -1,0 +1,7 @@
+llama-index
+langchain
+langchain_community
+databricks-langchain
+transformers
+huggingface_hub
+pymupdf
